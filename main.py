@@ -20,7 +20,7 @@ if user_age >= LOW_AGE:
 print("--- Part 1: yours ---")
 if user_age >= LOW_AGE and user_age < HIGH_AGE:
     print("BETWEENER")
-18
+    
 print("--- Part 2: given ---")
 if user_age < LOW_AGE:
     print("NOT BETWEENER")
